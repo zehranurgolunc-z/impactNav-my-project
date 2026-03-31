@@ -44,6 +44,17 @@ Dezavantajlı Bölgeler: Yerel belediyeler ve muhtarlarla entegre olarak özelli
 
 Sürdürülebilir Şehirler ve Acil Durum: Afet anlarında atıl sosyal sermayeyi saniyeler içinde organize edecek bir "Acil Durum Arayüzü" geliştirmek.
 
+🚀 Kurulum ve Çalıştırma
+# Repoyu klonla
+git clone https://github.com/zehranurgolunc-z/impact-nav-bgk-ai-buildathon.git
+cd impact-nav-bgk-ai-buildathon
+
+# Bağımlılıkları yükle
+npm install
+
+# Geliştirme sunucusunu başlat
+npm run dev
+
 🔗 İletişim
 Zehra Nur Gölünç BGK-AI Buildathon 2026 Projesi [Uygulama Linki -      ]
 
