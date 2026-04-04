@@ -59,4 +59,4 @@ npm run dev
 Zehra Nur Gölünç BGK-AI Buildathon 2026 Projesi [Uygulama Linki -      ]
 
 💡 Video Referansı
-Bu projenin hikayesini ve demosunu izlemek için: https://youtu.be/X9NRHtJbFxE?si=5Wbw-Qc4ukL-r_vo
+Bu projenin hikayesini ve demosunu izlemek için: 
